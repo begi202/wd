@@ -1,0 +1,44 @@
+.body{
+    margin: 0;
+}
+
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.header{
+    position: absolute;
+    padding-top: 57px;
+    width: 100%;
+
+}
+
+.header__row{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.nav__menu{
+    display: flex;
+
+}
+
+.nav__item{
+    list-style: none;
+    margin-left: 42px;
+
+}
+
+
+
+.nav__item a{
+    text-decoration: none;
+    color: black;
+
+}
+.cake{
+    height: 500px;
+    background-color:#EEEFF1;
+}
